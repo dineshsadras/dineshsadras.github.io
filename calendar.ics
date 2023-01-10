@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220831T081500Z
+DTEND:20220831T144500Z
+DTSTAMP:20220811T155918Z
+ORGANIZER;CN=Family:mailto:family02022830396857095798@group.calendar.google
+ .com
+UID:16g4moa2s9k3nh1shsln7f9omt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=je.nithya25@gmail.com;X-NUM-GUESTS=0:mailto:je.nithya25@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/uib-usvy-bow
+X-MICROSOFT-CDO-OWNERAPPTID:-100334239
+CREATED:20220810T200335Z
+DESCRIPTION:<p>Mr. Mathi &amp\; Mrs. Sundhayee and<br>The late&nbsp\;Mr. El
+ angovan &amp\; Mrs. Rajakumari<br>request the honor of your company<br>at t
+ he marriage of their children</p><p>Alexander<br>&amp\;<br>Nithya</p>\n\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-\nDo not edit this section of the description.\n\nThis event has
+ a video call.\nJoin: https://meet.google.com/uib-usvy-bow\n\nView your even
+ t at https://calendar.google.com/calendar/event?action=VIEW&eid=MTZnNG1vYTJ
+ zOWszbmgxc2hzbG43ZjlvbXQgamUubml0aHlhMjVAbQ&tok=NTIjZmFtaWx5MDIwMjI4MzAzOTY
+ 4NTcwOTU3OThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbTE4Y2JmNGU3MWNkNWUxMWZhMTNjMW
+ MwMjE2MzdmZTNkZDA5YzVkZTY&ctz=Asia%2FKolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220811T155916Z
+LOCATION:https://goo.gl/maps/WTmCqy4b63s2vSUD6
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Alex & Nithya -  Wedding & Reception
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
